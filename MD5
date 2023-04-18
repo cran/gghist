@@ -1,0 +1,11 @@
+6322e59f4ea8716bf5ce7ce9b6e161c9 *DESCRIPTION
+6735a7bf51a239eca29ee4025bd1012a *NAMESPACE
+383f4e4ff32eb64bd597c635e00936eb *NEWS.md
+06b75b2cf405e8bf8fff897fa20e8ef4 *R/gghist-package.R
+a43cff97619c91b73b1a0ee4d47a9379 *R/gghist.R
+0950a945e9bc270ce78dca3fb06af3ec *inst/WORDLIST
+7f3a576e4d1dfb1a7227eea8030c1515 *man/figures/README-example-1.png
+4c5c8ccd0ca32847d31f8858eddc010e *man/figures/README-example-2.png
+9b8585bc8502bf885ab0bfc83013ad66 *man/gghist-package.Rd
+6abc1bb53e466e1349e50e9184847f21 *man/gghist.Rd
+0622a97a2aaa3c342f09636052c2d7f5 *tests/spelling.R
